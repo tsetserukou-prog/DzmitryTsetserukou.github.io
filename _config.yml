@@ -23,7 +23,7 @@ repository               : "tsetserukou-prog.github.io/DzmitryTsetserukou.github
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png" 
+  avatar           : "profile.png" 
   name             : "Dzmitry Tsetserukou"
   pronouns         : # example: "she/her"  
   bio              : "PhD from The University of Tokyo"
