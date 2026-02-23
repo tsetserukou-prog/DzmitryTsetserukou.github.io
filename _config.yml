@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dzmitry Tsetserukou"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dzmitry Tsetserukou"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dzmitry Tsetserukou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD from The University of Tokyo"
   location         : "Moscow"
   employer         : "Skoltech"
   uri              : # https://www.skoltech.ru/en/laboratories/intelligent-space-robotics-laboratory 
@@ -51,7 +51,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +65,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # @DzmitryTT
+  telegram         : # "@DzmitryTT"
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
@@ -83,7 +82,11 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'M. Zafar, R. A. Khan, F. Batool, Y. Yaqoot, Z. Guo, M. Litvinov, A. Fedoseev, and D. Tsetserukou, “SwarmVLM: VLM-Guided Impedance Control for Autonomous Navigation of Heterogeneous Robots in Dynamic Warehousing,” in Proc. IEEE Int. Conf. on Robotics and Biomimetics (ROBIO), Chengdu, China, Dec. 3-7, 2025, pp. 770-775. (Scopus, WoS, H-index (SJR)=23)
+Arxiv: https://arxiv.org/abs/2508.07814 
+Youtube: https://youtu.be/Q9KDuH-t3Og '
+
+    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
